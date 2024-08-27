@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+#title{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 60px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding: 20px;
+}
+
+#btn{
+    display: block;
+    margin: 0 auto;
+    background-color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#btn-reset{
+    background-color: white;
+    border: none;    
+    padding: 10px;
+    border-radius: 10px;    
+    cursor: pointer;
+    margin-top: 20px;
+}
